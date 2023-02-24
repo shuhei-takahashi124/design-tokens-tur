@@ -1,0 +1,18 @@
+{
+  "color": {
+    "black": {
+      "value": "#000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#fff",
+      "type": "color"
+    }
+  },
+  "borderRadius": {
+    "base": {
+      "value": 8,
+      "type": "borderRadius"
+    }
+  }
+}

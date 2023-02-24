@@ -1,0 +1,17 @@
+{
+  "name": "design-tokens-tur",
+  "version": "1.0.0",
+  "description": "design token tutorial",
+  "main": "build/js/tokens.js",
+  "types": "build/js/tokens.d.ts",
+  "scripts": {
+    "build": "style-dictionary build",
+    "transform": "token-transformer tokens.json transformed.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "style-dictionary": "^3.7.2",
+    "token-transformer": "^0.0.30"
+  }
+}
