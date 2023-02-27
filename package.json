@@ -10,6 +10,9 @@
   },
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "style-dictionary": "^3.7.2",
     "token-transformer": "^0.0.30"
